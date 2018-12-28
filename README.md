@@ -1,7 +1,6 @@
 # Traveling Santa
 > Ho ho holy smokes, Santa is in dire need of your help!</i>
 
-<img src="https://traveling-santa.reaktor.com/assets/images/globe.svg" style="position: absolute; width: 3.2rem; max-width: 181px; right: 15%; top: 2.75rem; right: 5.5rem;">
 <img src="https://traveling-santa.reaktor.com/assets/images/pukki.svg" style="position: absolute; width: 10rem; max-width: 321px; right: 5%; top: 0;">
 
 Our planet is warming up at an alarming pace, and Santa is fervently looking for ways to cut down on CO2 emissions. The red man is acutely aware of the carbon footprint galloping around the world at turbo speed generates, and has made it his mission to find a more sustainable way to bring delight and joy to families around the world.
