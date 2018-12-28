@@ -1,5 +1,6 @@
 {
   "name": "traveling-santa",
+  "description": "Ho ho holy smokes, Santa is in dire need of your help!",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,8 +9,15 @@
     "test": "ava test",
     "build": "babel src -d dist"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Reaktor",
+    "traveling santa",
+    "santa",
+    "challenge",
+    "branden dane",
+    "danetheory"
+  ],
+  "author": "Branden Dane",
   "ava": {
     "babel": "inherit"
   },

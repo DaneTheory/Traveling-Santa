@@ -1,5 +1,5 @@
 # Traveling Santa
-> Ho ho holy smokes, Santa is in dire need of your help!</i>
+> Ho ho holy smokes, Santa is in dire need of your help!
 
 <img src="https://traveling-santa.reaktor.com/assets/images/pukki.svg" style="position: absolute; width: 10rem; max-width: 321px; right: 5%; top: 0;">
 
