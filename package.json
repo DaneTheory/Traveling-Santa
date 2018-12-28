@@ -1,0 +1,28 @@
+{
+  "name": "traveling-santa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon ./node_modules/.bin/babel-node .",
+    "prepublish": "npm run build",
+    "test": "ava test",
+    "build": "babel src -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "ava": {
+    "babel": "inherit"
+  },
+  "devDependencies": {
+    "ava": "^0.20.0",
+    "babel-cli": "^6.24.1",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-register": "^6.24.1",
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-pundits": "^2.0.3"
+  }
+}
